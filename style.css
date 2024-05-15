@@ -17,11 +17,12 @@ header {
     background-color: rgba(0, 0, 0, 0.977);
 }
 
-.logo-header { display: flex;
+.logo-header h3 { display: flex;
     width: 260px;
     justify-content: space-between;
     color: rgb(235, 235, 7);
     font-family:"Satisfy", cursive;
+    font-size: 26px;
 
 }
 
@@ -37,7 +38,7 @@ header {
 .personal-information { display: flex;
     color: rgb(237, 237, 237);
     padding: 35px 105px 110px 105px ;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.977)20%,rgb(96, 96, 96)80%);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.977)20%,rgb(99, 99, 99)80%);
 }
 
 .text-persona-information { width: 330px;
@@ -80,11 +81,11 @@ header {
    
 }
 .bi-instagram {font-size: 24px;
-    color:rgb(250, 250, 250);}
+    color:rgb(235, 235, 7);}
 .bi-facebook {font-size: 24px;
     color:rgb(255, 255, 255);}
 .bi-tiktok {font-size: 24px;
-    color:rgb(255, 255, 255);}
+    color:rgb(235, 235, 7);}
 .bi-whatsapp {font-size: 24px;
     color:rgb(255, 255, 255);}
 
